@@ -11,7 +11,7 @@ That's the BMI Calculator (Calculadora de IMC)
 The calculator was created with purpose to study <b>React Native</b> in JavaScript.
 
 ### Functionalities
-You can calculate you BMI. BMI is your Body Mass Index, and that is a measure of body fat, based on height and weight. That applies to adult men and women.<br>
+You can calculate your BMI. BMI is your Body Mass Index, and that is a measure of body fat, based on height and weight. That applies to adult men and women.<br>
 * To calculate, just put your weight and your height respectively then it returns to you your condition.
 
 ### Installation
